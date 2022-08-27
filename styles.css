@@ -149,10 +149,10 @@ select {
     
 }
 
-.create-acc-button {    
+button {
     background-color: rgba(0, 0, 0, 0);
     font-size: 1.2em;
-    border: 2px solid var(--color);
+    border: 2px solid var();
     border-radius: 5px;
     padding: 10px 40px;
     margin: 40px 0;
